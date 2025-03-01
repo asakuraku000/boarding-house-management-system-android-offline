@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+       
+        <item
+            android:id="@+id/nav_tenants"
+            android:icon="@drawable/tenant"
+            android:title="Tenants" />
+        <item
+            android:id="@+id/nav_rooms"
+            android:icon="@drawable/room"
+            android:title="Rooms" />
+    </group>
+
+    <item android:title="Billing">
+        <menu>
+            <item
+                android:id="@+id/nav_rent_bills"
+                android:icon="@drawable/key"
+                android:title="Rent Bills" />
+            <item
+                android:id="@+id/nav_water_bills"
+                android:icon="@drawable/faucet"
+                android:title="Water Bills" />
+            <item
+                android:id="@+id/nav_electric_bills"
+                android:icon="@drawable/bill"
+                android:title="Electric Bills" />
+        </menu>
+    </item>
+
+    <item android:title="Info">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/guide"
+                android:title="Guide" />
+         
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Auto-Billing Settings"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingBottom="16dp"/>
+
+    <CheckBox
+        android:id="@+id/enableAutoCheckbox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enable Automatic Bill Generation"
+        android:paddingBottom="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Billing Frequency"
+        android:textStyle="bold"
+        android:paddingTop="8dp"/>
+
+    <RadioGroup
+        android:id="@+id/frequencyRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="8dp">
+
+        <RadioButton
+            android:id="@+id/monthlyRadio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Monthly"/>
+
+        <RadioButton
+            android:id="@+id/weeklyRadio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Weekly"/>
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Week Interval:"
+            android:layout_gravity="center_vertical"/>
+
+        <Spinner
+            android:id="@+id/weekIntervalSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end">
+
+        <Button
+            android:id="@+id/cancelBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:layout_marginEnd="8dp"
+            style="?android:attr/buttonBarButtonStyle"/>
+
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:backgroundTint="@color/primary"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+</LinearLayout>

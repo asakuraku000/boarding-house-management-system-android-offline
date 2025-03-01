@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+   <color name="primary">#6200EE</color>
+<color name="gray">#9E9E9E</color>
+<color name="green">#4CAF50</color>
+<color name="red">#F44336</color>
+    <color name="colorLightBackground">#F5F5F5</color>
+<color name="colorVeryLightBackground">#F9F9F9</color>
+
+
+    <color name="background_color">#F5F5F5</color>
+    <color name="tenant_card_color">#4CAF50</color>
+    <color name="room_card_color">#2196F3</color>
+    <color name="paid_card_color">#4CAF50</color>
+    <color name="unpaid_card_color">#F44336</color>
+    <!-- Base Theme Colors -->
+    
+    <color name="primary_dark">#3D5CE5</color>
+    <color name="primary_light">#D1DCFF</color>
+    <color name="accent_color">#4A6FFF</color>
+    
+    <!-- Background Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="divider">#E9EDF5</color>
+    
+    <!-- Text Colors -->
+<color name="primary_text">#2C3E50</color>
+    <color name="secondary_text">#6C7A89</color>
+    <color name="hint_text">#ADB5BD</color>
+        
+    <!-- Utility Colors -->
+    <color name="light_gray">#E0E6F2</color>
+    <color name="medium_gray">#B3BDC8</color>
+    <color name="dark_gray">#6C7A89</color>
+    
+    <!-- Status Colors -->
+    <color name="success_color">#2ECC71</color>
+    <color name="warning_color">#FF9500</color>
+    <color name="danger_color">#E74C3C</color>
+    <color name="info_color">#3498DB</color>
+    
+    <!-- Room Status-specific Colors -->
+    <color name="available_room">#E8F5E9</color>
+    <color name="available_room_text">#2ECC71</color>
+    <color name="occupied_room">#FFF3E0</color>
+    <color name="occupied_room_text">#FF9500</color>
+    <color name="maintenance_room">#FFEBEE</color>
+    <color name="maintenance_room_text">#E74C3C</color>
+    
+    <!-- Ripple Effect Color -->
+    <color name="ripple_color">#20000000</color>
+</resources>

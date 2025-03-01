@@ -1,0 +1,335 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/HomeActivity.java",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": 6049,
+          "line": 156
+        },
+        "start": {
+          "column": 8,
+          "index": 6037,
+          "line": 156
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/activity_home.xml",
+      "selection": {
+        "end": {
+          "column": 62,
+          "index": 8466,
+          "line": 185
+        },
+        "start": {
+          "column": 62,
+          "index": 8466,
+          "line": 185
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/nav_header.xml",
+      "selection": {
+        "end": {
+          "column": 35,
+          "index": 706,
+          "line": 18
+        },
+        "start": {
+          "column": 35,
+          "index": 706,
+          "line": 18
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/menu/drawer_menu.xml",
+      "selection": {
+        "end": {
+          "column": 45,
+          "index": 1170,
+          "line": 35
+        },
+        "start": {
+          "column": 45,
+          "index": 1170,
+          "line": 35
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 14,
+          "index": 7702,
+          "line": 204
+        },
+        "start": {
+          "column": 14,
+          "index": 7702,
+          "line": 204
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/AllRecentBillsActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 2656,
+          "line": 84
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/FileHandler.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 9903,
+          "line": 362
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 22,
+          "index": 4559,
+          "line": 105
+        },
+        "start": {
+          "column": 22,
+          "index": 4559,
+          "line": 105
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/TenantManagementActivity.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 13091,
+          "line": 312
+        },
+        "start": {
+          "column": 1,
+          "index": 13091,
+          "line": 312
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/activity_tenant_management.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1479,
+          "line": 36
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/RoomManagementActivity.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 13852,
+          "line": 309
+        },
+        "start": {
+          "column": 1,
+          "index": 13852,
+          "line": 309
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/RoomAdapter.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2582,
+          "line": 72
+        },
+        "start": {
+          "column": 1,
+          "index": 2582,
+          "line": 72
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/activity_room_management.xml",
+      "selection": {
+        "end": {
+          "column": 32,
+          "index": 571,
+          "line": 13
+        },
+        "start": {
+          "column": 31,
+          "index": 570,
+          "line": 13
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/dialog_add_room.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 3058,
+          "line": 80
+        },
+        "start": {
+          "column": 15,
+          "index": 3058,
+          "line": 80
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/item_room.xml",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 1507,
+          "line": 40
+        },
+        "start": {
+          "column": 36,
+          "index": 1507,
+          "line": 40
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/xml/backup_rules.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/Room.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1045,
+          "line": 42
+        },
+        "start": {
+          "column": 1,
+          "index": 1045,
+          "line": 42
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 41,
+          "index": 402,
+          "line": 10
+        },
+        "start": {
+          "column": 41,
+          "index": 402,
+          "line": 10
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/layout/dialog_add_tenant.xml",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 2576,
+          "line": 73
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/drawable/spinner_background.xml",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": 294,
+          "line": 8
+        },
+        "start": {
+          "column": 8,
+          "index": 294,
+          "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/res/values/colors.xml",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 1234,
+          "line": 33
+        },
+        "start": {
+          "column": 4,
+          "index": 1234,
+          "line": 33
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/BillManagementActivity.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 24174,
+          "line": 551
+        },
+        "start": {
+          "column": 1,
+          "index": 24174,
+          "line": 551
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/BHMS/app/src/main/java/com/mingmingdecoder/bhms/MainActivity.java"
+}
